@@ -50,6 +50,7 @@
 .hero-content-info {
   padding: 64px;
   flex: 1;
+
   display: flex;
   justify-content: center;
   flex-direction: column;
